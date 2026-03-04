@@ -90,5 +90,3 @@ Includes the required copyright text:
 > © 2026 Achievements Corner School. All rights reserved.
 
 ---
-
-If you want, this README can also be extended with deployment instructions (GitHub Pages / Netlify / Vercel) and contribution guidelines.
